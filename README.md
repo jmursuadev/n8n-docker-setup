@@ -12,7 +12,7 @@ Docker Compose setup for n8n with PostgreSQL and Adminer.
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jmursuadev/n8n-docker-setup.git
    cd n8n-docker-setup
    ```
 
